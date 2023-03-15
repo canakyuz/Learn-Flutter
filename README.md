@@ -1,4 +1,4 @@
-![](flutter.png)
+![](./assets/banner-flutter.png)
 
 ---
 > [Course](https://www.classcentral.com/classroom/freecodecamp-flutter-course-for-beginners-37-hour-cross-platform-app-development-tutorial-104327) - [Cookbook](https://docs.flutter.dev/cookbook) - [PDF](/Learn-Flutter/pdf/)
